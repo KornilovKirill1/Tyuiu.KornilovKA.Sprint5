@@ -45,6 +45,10 @@ namespace Tyuiu.KornilovKA.Sprint5.Task0.V20
             Console.WriteLine("Файл: " + res);
             Console.WriteLine("Создан!");
 
+            double z = Math.Round(2.12 * Math.Pow(x, 3) + 1.05 * Math.Pow(x, 2) + 4.1 * x * 2, 3);
+
+            Console.WriteLine("f(x) = " + z);
+
             Console.ReadLine();
         }
     }
