@@ -8,7 +8,7 @@ namespace Tyuiu.KornilovKA.Sprint5.Task1.V28.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void CheckedExistsFile()
         {
             string path = @"C:\Users\KILIAN\source\repos\Tyuiu.KornilovKA.Sprint5\Tyuiu.KornilovKA.Sprint5.Task1.V28\bin\Debug\OutPutFileTask1.txt";
 
